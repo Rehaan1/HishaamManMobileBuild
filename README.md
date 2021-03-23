@@ -1,2 +1,2 @@
 # HishaamManMobileBuild
-![Game View 1](https://github.com/Rehaan1/HishaamManMobileBuild/blob/main/hm1.jpg?raw=true)
+![Game View 1](https://github.com/Rehaan1/HishaamManMobileBuild/main/hm1.JPG?raw=true)
